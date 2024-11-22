@@ -1,0 +1,229 @@
+[
+    {
+        "fuente": "https://docs.google.com/forms/d/e/1FAIpQLSc5ayylxQaxWeGvMI_MLatZMn8Y5daxtFpj8IBLlLzS3szBPw/viewform",
+        "pregunta": "¿Cuáles son controles del anexo A según la norma ISO 27001?",
+        "alternativas": [
+            "Derechos de Propiedad Intelectual (DPI).",
+            "Externalización del desarrollo de software.",
+            "Acuerdos de confidencialidad o no revelación.",
+            "Solo A y B.",
+            "Solo B y C.",
+            "A, B y C son correctas."
+        ],
+        "respuesta_correcta": "A, B y C son correctas."
+    },
+    {
+        "pregunta": "¿Cuál es la definición de disponibilidad según la familia de normas ISO 27000?",
+        "alternativas": [
+            "Propiedad de ser accesible y estar listo para su uso o demanda de una entidad autorizada.",
+            "Propiedad consistente en que una entidad es lo que dice ser.",
+            "Propiedad de la información por la que se mantiene inaccesible.",
+            "Ninguna de la anteriores."
+        ],
+        "respuesta_correcta": "Propiedad de ser accesible y estar listo para su uso o demanda de una entidad autorizada."
+    },
+    {
+        "pregunta": "¿Basados en la ISO 19011, actividades dentro de la preparación de la auditoría incluyen?",
+        "alternativas": [
+            "Revisar la documentación.",
+            "Preparar el plan de auditoría.",
+            "Asignar el trabajo al equipo auditor.",
+            "Preparar los documentos de trabajo.",
+            "Ninguna de las anteriores, estos tópicos son de la etapa de conducir la auditoría.",
+            "Todas las anteriores."
+        ],
+        "respuesta_correcta": "Todas las anteriores."
+    },
+    {
+        "pregunta": "¿Todos los controles del anexo A se deben implementar en un sistema de gestión de seguridad de la información?",
+        "alternativas": [
+            "Verdadero",
+            "Falso"
+        ],
+        "respuesta_correcta": "Falso"
+    },
+    {
+        "pregunta": "Seleccione la mejor respuesta, las auditorías internas son realizadas al interior de una organización para:",
+        "alternativas": [
+            "Determinar la conformidad del sistema de gestión y determinar oportunidades de mejora.",
+            "Determinar la posibilidad de certificarse ante un proveedor de servicios.",
+            "Buscar incumplimientos bajo el criterio del auditor.",
+            "Dar cumplimiento al requisito de la norma."
+        ],
+        "respuesta_correcta": "Determinar la conformidad del sistema de gestión y determinar oportunidades de mejora."
+    },
+    {
+        "pregunta": "Para auditores líderes de más de 3 años ejerciendo como auditor, es posible que por su experiencia no se hagan un plan de auditoría.",
+        "alternativas": [
+            "Verdadero",
+            "Falso"
+        ],
+        "respuesta_correcta": "Falso"
+    },
+    {
+        "pregunta": "¿Cómo se puede definir una lista de chequeo?",
+        "alternativas": [
+            "Listado exhaustivo de los requisitos de la norma.",
+            "Guía usada por el auditor para evaluar algunos requisitos de la norma.",
+            "Listado de actividades a realizar durante la reunión de apertura.",
+            "Insumo requerido para el programa de auditoría."
+        ],
+        "respuesta_correcta": "Guía usada por el auditor para evaluar algunos requisitos de la norma."
+    },
+    {
+        "pregunta": "¿Solo se documentan las no conformidades de un sistema de gestión si estas son mayores a dos?",
+        "alternativas": [
+            "Verdadero, porque dos no conformidades determinan que el sistema está fuera de control.",
+            "Verdadero, porque dos no conformidades son requeridas para no certificar un sistema.",
+            "Falso, todas las no conformidades se deben documentar.",
+            "Falso, solo a partir de 3 no cumplimientos de un requisito se documenta una no conformidad."
+        ],
+        "respuesta_correcta": "Falso, todas las no conformidades se deben documentar."
+    },
+    {
+        "pregunta": "Se define como “Situación que potencialmente puede afectar el sistema de gestión de calidad”",
+        "alternativas": [
+            "No conformidad menor.",
+            "Hallazgo.",
+            "Observación.",
+            "Registro de Mejora."
+        ],
+        "respuesta_correcta": "Observación."
+    },
+    {
+        "pregunta": "¿No son importantes en la redacción de no conformidades?",
+        "alternativas": [
+            "Las opiniones del auditor.",
+            "La evidencia.",
+            "La referencia a los requisitos de la norma.",
+            "Redactar sobre un requisito a la vez."
+        ],
+        "respuesta_correcta": "Las opiniones del auditor."
+    },
+    {
+        "pregunta": "La norma ISO 27001, es la única forma como una compañía puede evaluar la capacidad de la organización para cumplir con sus propios requisitos de seguridad.",
+        "alternativas": [
+            "Verdadero",
+            "Falso"
+        ],
+        "respuesta_correcta": "Falso"
+    },
+    {
+        "pregunta": "De acuerdo a la norma ISO 27001, los requisitos de las partes interesadas que son relevantes para la seguridad de la información deben ser:",
+        "alternativas": [
+            "Requisitos internos.",
+            "Requisitos externos.",
+            "Requisitos contractuales.",
+            "Solo A y C.",
+            "Solo B y C.",
+            "A, B y C son correctas."
+        ],
+        "respuesta_correcta": "A, B y C son correctas."
+    },
+    {
+        "pregunta": "¿Son procedimientos documentados requeridos en la norma ISO 27001 o su anexo dependiendo de la declaración de aplicabilidad?",
+        "alternativas": [
+            "Procedimiento de gestión de incidentes.",
+            "Procedimientos de continuidad del negocio.",
+            "Procedimientos operativos para la gestión de TI.",
+            "Solo A y B.",
+            "Solo A y C.",
+            "Solo B y C.",
+            "A, B y C son correctos."
+        ],
+        "respuesta_correcta": "A, B y C son correctos."
+    },
+    {
+        "pregunta": "¿Son registros exigidos por la norma ISO 27001 o por la aplicación de un control del anexo?",
+        "alternativas": [
+            "Registros de entrenamiento, habilidades, experiencia y calificaciones.",
+            "Registros de eventos de seguridad.",
+            "Solo A.",
+            "Solo B.",
+            "A y B son registros requeridos."
+        ],
+        "respuesta_correcta": "A y B son registros requeridos."
+    },
+    {
+        "pregunta": "¿Es posible tener que crear una política de control de acceso en el momento de aplicar controles de la Norma?",
+        "alternativas": [
+            "Verdadero",
+            "Falso"
+        ],
+        "respuesta_correcta": "Verdadero"
+    },
+    {
+        "pregunta": "La organización debe determinar la necesidad de comunicaciones internas y externas que incluyan:",
+        "alternativas": [
+            "Quién comunica.",
+            "A quién se comunica.",
+            "Qué se comunica.",
+            "Todas los anteriores."
+        ],
+        "respuesta_correcta": "Todas los anteriores."
+    },
+    {
+        "pregunta": "¿El tamaño de la organización y su tipo de actividades, procesos, productos y servicios pueden determinar el alcance de la información documentada en la ISO 27001?",
+        "alternativas": [
+            "Verdadero",
+            "Falso"
+        ],
+        "respuesta_correcta": "Verdadero"
+    },
+    {
+        "pregunta": "Los procesos contratados externamente estén fuera del alcance de control siempre y cuando se documente esto dentro de las exclusiones del sistema de gestión.",
+        "alternativas": [
+            "Verdadero",
+            "Falso"
+        ],
+        "respuesta_correcta": "Falso"
+    },
+    {
+        "pregunta": "¿El requisito de la norma donde la alta dirección se refiere a que se debe revisar el sistema de gestión de la seguridad de la información de la organización, está establecido para hacerse?",
+        "alternativas": [
+            "Al menos cada seis meses.",
+            "Al menos en cada auditoría interna.",
+            "A intervalos planificados definidos en el sistema.",
+            "No se hace revisión del sistema de la seguridad de la información."
+        ],
+        "respuesta_correcta": "A intervalos planificados definidos en el sistema."
+    },
+    {
+        "pregunta": "De acuerdo a la ISO 27001, basado en las tendencias actuales y manteniendo siempre en un enfoque proactivo no se debe excluir el control de teletrabajo.",
+        "alternativas": [
+            "Verdadero",
+            "Falso"
+        ],
+        "respuesta_correcta": "Falso"
+    },
+    {
+        "pregunta": "La siguiente es la definición de qué concepto: “Evento singular o serie de eventos de la seguridad de la información, inesperados o no deseados”",
+        "alternativas": [
+            "Problema de seguridad de la información.",
+            "Incidencia de seguridad de la información.",
+            "Alerta de seguridad de la información.",
+            "Ninguna de las anteriores."
+        ],
+        "respuesta_correcta": "Incidencia de seguridad de la información."
+    },
+    {
+        "pregunta": "De acuerdo a la ISO 27000, la siguiente definición corresponde a: “Aplicaciones, servicios, activos de tecnologías de la información y otros compuestos para manejar información”.",
+        "alternativas": [
+            "Sistema de seguridad de la información.",
+            "Sistema de información.",
+            "Sistema de gestión de seguridad de la información.",
+            "Ninguna de las anteriores."
+        ],
+        "respuesta_correcta": "Sistema de información."
+    },
+    {
+        "pregunta": "La definición “Magnitud de un riesgo o combinación de riesgos, expresados en términos de la combinación de las consecuencias y de su probabilidad”. Se refiere a:",
+        "alternativas": [
+            "Declaración de aplicabilidad.",
+            "Análisis de riesgos.",
+            "Nivel de riesgos.",
+            "Gestión de riesgos."
+        ],
+        "respuesta_correcta": "Nivel de riesgos."
+    }
+]

@@ -1,0 +1,333 @@
+[
+    {
+        "_fuente": "https://docs.google.com/forms/d/e/1FAIpQLSdGCTs2O3qrHhdMusflFzmuVjfh9Z-4QcVqsXXLfsUsTUTATg/viewscore?viewscore=AE0zAgBzJWZ8rsUtmFSlEWACV5ugRwRIcDAOhGwiFXaZcDH4tGQwT7bhXR1a9wZpXrpCWQA",
+        "pregunta": "Su jefe solicita agilizar los informes estando Usted de viaje, por tanto, utiliza las Wi-Fi de aeropuertos y hoteles con almacenamiento local y con sincronismo en la nube.",
+        "alternativas": ["5.10", "5.1", "7.8", "7.9"],
+        "respuesta_correcta": "7.9",
+        "justificacion": "Según ISO 27001, el control 7.9 se refiere a la protección de los activos en entornos inseguros, como Wi-Fi público en aeropuertos y hoteles. Este control asegura la confidencialidad e integridad de la información cuando se utiliza almacenamiento en la nube o sincronización remota, estableciendo medidas para evitar accesos no autorizados y proteger contra riesgos de seguridad asociados con redes públicas."
+    },
+    {
+        "pregunta": "Los hallazgos son resultados de la evaluación de la evidencia objetiva recopilada frente al conjunto de políticas, procedimientos o requisitos utilizados como referencia.",
+        "alternativas": ["Verdadero", "Falso"],
+        "respuesta_correcta": "Verdadero",
+        "justificacion": "De acuerdo con ISO 27001, los hallazgos de auditoría se basan en la evaluación de evidencia objetiva recopilada, como se menciona en la norma en relación con el cumplimiento de los controles y la efectividad del SGSI. La evidencia objetiva es crucial para validar que las políticas, procedimientos y requisitos cumplen con los estándares de seguridad."
+    },
+    {
+        "pregunta": "Propiedad que determina que la información no está disponible ni sea revelada a quien no esté autorizado. La anterior es la definición de:",
+        "alternativas": ["Integridad", "Confidencialidad", "No repudio", "Disponibilidad"],
+        "respuesta_correcta": "Confidencialidad",
+        "justificacion": "Según ISO 27001, la confidencialidad es la propiedad de que la información no esté disponible ni sea revelada a personas, entidades o procesos no autorizados. Esto es un principio fundamental de seguridad de la información para proteger la privacidad y los datos sensibles de la organización."
+    },
+    {
+        "pregunta": "El auditor líder evidencia que aún no se establecen los criterios de aceptación de riesgos.",
+        "alternativas": ["9.1", "6.1.2", "8.3", "5.1"],
+        "respuesta_correcta": "6.1.2",
+        "justificacion": "ISO 27001 en el control 6.1.2 establece que la organización debe definir los criterios de aceptación de riesgos y asegurar su alineación con los objetivos de seguridad. Esto permite a la organización gestionar de manera efectiva los riesgos y determinar qué riesgos son tolerables o requieren tratamiento adicional."
+    },
+    {
+        "pregunta": "En horas de la mañana se solicitó a las personas laborar desde su casa conectándose desde una VPN segura, pues no había suministro eléctrico en la Empresa. Lamentablemente el DATACENTER donde se almacena la información sensible estaba conectado a una UPS que falló a las dos horas de estar prendida y no se pudieron adelantar actividades de misión crítica. Las multas de la empresa fueron grandes porque se había asegurado de que la disponibilidad era de un 99.7%. ¿Cuál es el control que más aplica para este caso?",
+        "alternativas": ["8.14", "5.1", "6.3", "7.2"],
+        "respuesta_correcta": "8.14",
+        "justificacion": "ISO 27001 en el control 8.14 enfatiza la necesidad de planes de continuidad y la capacidad de recuperación de sistemas críticos para mantener la disponibilidad del servicio. En este caso, el fallo en la UPS afectó la continuidad de las actividades críticas, lo cual debería haber sido contemplado en los planes de recuperación y respaldo."
+    },
+    {
+        "pregunta": "Las oportunidades para mejorar el programa de auditoría pueden incluir",
+        "alternativas": ["Alinear las fechas de auditoría con la disponibilidad del personal clave del auditado", "Permitir múltiples auditorías en una sola visita", "Minimizar el tiempo de la auditoría", "A, B y C"],
+        "respuesta_correcta": "A, B y C",
+        "justificacion": "ISO 27001 permite la mejora continua en el programa de auditoría. Las recomendaciones A, B y C son acciones prácticas para optimizar los recursos, minimizar interrupciones y garantizar la efectividad de las auditorías."
+    },
+    {
+        "pregunta": "Métodos para recopilar la información son: informes de auditoría, análisis e indicadores de desempeño de incidentes de seguridad, entrevistas.",
+        "alternativas": ["Verdadero", "Falso"],
+        "respuesta_correcta": "Verdadero",
+        "justificacion": "Según ISO 27001, la recopilación de información debe basarse en evidencia objetiva. Métodos como informes, análisis de indicadores y entrevistas son esenciales para evaluar el cumplimiento de controles y el desempeño del sistema de gestión."
+    },
+    {
+        "pregunta": "Las listas de verificación, el plan de muestreo y el plan de auditoria hacen parte del informe de auditoría.",
+        "alternativas": ["Verdadero", "Falso"],
+        "respuesta_correcta": "Verdadero",
+        "justificacion": "ISO 27001 indica que las listas de verificación y planes de muestreo son herramientas que apoyan la estructuración y documentación del proceso de auditoría, garantizando que los hallazgos estén bien fundamentados en el informe final."
+    },
+    {
+        "pregunta": "El método de informar los hallazgos en la auditoria es una actividad del plan de auditoria.",
+        "alternativas": ["Verdadero", "Falso"],
+        "respuesta_correcta": "Verdadero",
+        "justificacion": "De acuerdo con ISO 27001, el plan de auditoría debe definir cómo se informarán los hallazgos para asegurar la claridad en la comunicación y la comprensión de las áreas de mejora identificadas."
+    },
+    {
+        "pregunta": "La asignación de funciones del equipo auditor, las entrega:",
+        "alternativas": ["La alta dirección de la Organización", "El gerente de auditoria de la Organización", "El auditor lider asignado", "El auditor que posea mas experiencia y competencias del equipo auditor"],
+        "respuesta_correcta": "El auditor lider asignado",
+        "justificacion": "Según ISO 27001, el auditor líder es responsable de asignar funciones dentro del equipo auditor para asegurar que cada miembro se enfoque en sus áreas de competencia durante el proceso de auditoría."
+    },
+    {
+        "pregunta": "La Compañía “SU EMPRESA S.A”, cuenta con un Plan de continuidad del negocio, pero NO se ha podido evidenciar la verificación, revisión y evaluación de la continuidad de la seguridad de la información.",
+        "alternativas": ["8.20", "6.8", "8.16", "5.30"],
+        "respuesta_correcta": "5.30",
+        "justificacion": "ISO 27001 en el control 5.30 sugiere la revisión periódica de la efectividad de los planes de continuidad, incluida la verificación y evaluación, para garantizar que la seguridad de la información esté protegida en situaciones de emergencia."
+    },
+    {
+        "pregunta": "Las amenazas del entorno y los impulsores competitivos son elementos que se tienen en cuenta para:",
+        "alternativas": [
+            "Las políticas de la seguridad de la información",
+            "Las prioridades y requisitos de la seguridad de la información",
+            "La auditoría interna",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta_correcta": "Ninguna de las anteriores",
+        "justificacion": "ISO 27001 no especifica explícitamente las amenazas del entorno y los impulsores competitivos como parte de los elementos de política o auditoría de seguridad de la información; estos aspectos suelen tratarse en análisis estratégicos y no son requisitos directos del estándar."
+    },
+    {
+        "pregunta": "La evidencia objetiva",
+        "alternativas": [
+            "Consiste en registros, declaraciones de hechos u otra información que son relevantes para los criterios de auditoría y verificables.",
+            "Solo se puede obtener a través de la observación del auditoria",
+            "No es posible obtenerla, sino a través de información que suministra el auditado",
+            "Solo se toman cuando existen no conformidades"
+        ],
+        "respuesta_correcta": "Consiste en registros, declaraciones de hechos u otra información que son relevantes para los criterios de auditoría y verificables.",
+        "justificacion": "ISO 27001 destaca la importancia de la evidencia objetiva en la auditoría, la cual debe consistir en registros o declaraciones verificables. Esto permite que los hallazgos de auditoría estén basados en pruebas sólidas y alineados con los criterios de auditoría."
+    },
+    {
+        "pregunta": "Las conclusiones de la auditoria son",
+        "alternativas": [
+            "Resultado de una auditoría después de considerar los puntos de vista del auditado y el auditor",
+            "Resultado de una auditoría después de considerar los requisitos y todos los hallazgos de auditoría",
+            "Resultado de una auditoría después de considerar los controles del Anexo A y todos los hallazgos de auditoría.",
+            "Resultado de una auditoría después de considerar los objetivos de auditoría y todos los hallazgos de esta."
+        ],
+        "respuesta_correcta": "Resultado de una auditoría después de considerar los objetivos de auditoría y todos los hallazgos de esta.",
+        "justificacion": "Según ISO 27001, las conclusiones de la auditoría deben ser el resultado de una evaluación completa de los objetivos y hallazgos. Esto asegura una revisión exhaustiva y objetiva del SGSI, permitiendo una comprensión clara del cumplimiento."
+    },
+    {
+        "pregunta": "Las auditorias de tercera parte",
+        "alternativas": [
+            "Son llevadas a cabo por organizaciones de auditoría independientes, como aquellas que proporcionan certificación / registro de conformidad o agencias gubernamentales.",
+            "Son llevadas por las partes que tienen un interés en la organización, como los clientes, o por otras personas en su nombre",
+            "Son realizadas por o en nombre de la organización misma",
+            "Son llevadas a cabo por la auditoría interna exclusivamente"
+        ],
+        "respuesta_correcta": "Son llevadas a cabo por organizaciones de auditoría independientes, como aquellas que proporcionan certificación / registro de conformidad o agencias gubernamentales.",
+        "justificacion": "ISO 27001 establece que las auditorías de tercera parte son realizadas por organizaciones externas independientes, como agencias de certificación, para garantizar imparcialidad y objetividad en la evaluación de la conformidad del SGSI."
+    },
+    {
+        "pregunta": "Al intentar recuperar un “SACKUP” este no restauró la información, por tal razón no se encontró información del SGSI.",
+        "alternativas": ["8.13", "5.1", "8.14", "8.20"],
+        "respuesta_correcta": "8.13",
+        "justificacion": "El control 8.13 de ISO 27001 establece la necesidad de garantizar la integridad y disponibilidad de la información mediante respaldos efectivos. Esto incluye asegurar que los respaldos funcionen correctamente en caso de restauración."
+    },
+    {
+        "pregunta": "En “SU EMPRESA\" se presentan bloqueos permanentes de las impresoras, el proveedor las interviene inmediatamente. ¿Cuál de estos controles del Anexo permite abordar este caso?",
+        "alternativas": ["5.1", "8.2", "7.12", "7.13"],
+        "respuesta_correcta": "7.13",
+        "justificacion": "El control 7.13 de ISO 27001 se centra en la gestión de fallos en los sistemas y equipos, como las impresoras. Esto implica tomar medidas de respuesta rápida para asegurar la continuidad operativa y minimizar las interrupciones."
+    },
+    {
+        "pregunta": "El 5651 Contribuye a la Organización en:",
+        "alternativas": [
+            "La gestión de los riesgos para determinar los controles adecuados para alcanzar niveles aceptables de riesgo.",
+            "La seguridad de la información como un componente esencial de los procesos",
+            "La prevención y detección activas de incidentes de seguridad de la información",
+            "Todas las anteriores"
+        ],
+        "respuesta_correcta": "Todas las anteriores",
+        "justificacion": "La normativa 5651 apoya la gestión de la seguridad de la información en diversas áreas, incluyendo la gestión de riesgos, la detección de incidentes y la incorporación de la seguridad como parte esencial de los procesos."
+    },
+    {
+        "pregunta": "Si existió capacitación insuficiente para desarrollar el programa de auditoria fue porque:",
+        "alternativas": [
+            "No se asignaron los recursos suficientes para la auditoría",
+            "No hubo planificación de la auditoría",
+            "No existió comunicación suficiente en el equipo de auditoría",
+            "No se seleccionó el equipo auditor competente"
+        ],
+        "respuesta_correcta": "No se asignaron los recursos suficientes para la auditoría",
+        "justificacion": "ISO 27001 enfatiza la importancia de asignar recursos adecuados para la implementación y mantenimiento del SGSI, incluyendo la capacitación del equipo auditor para asegurar el éxito del programa de auditoría."
+    },
+    {
+        "pregunta": "Durante una auditoría al SGSI, El auditor líder no identifica retroalimentación/comentarios de las partes interesadas en su entrevista con el proceso de Gestión Estratégica y asigna una NO CONFORMIDAD. ¿A cuál numeral se la debe asignar?",
+        "alternativas": ["5.1", "9.3", "9.1", "4.2"],
+        "respuesta_correcta": "4.2",
+        "justificacion": "Según ISO 27001, el numeral 4.2 requiere que la organización comprenda y tenga en cuenta las necesidades y expectativas de las partes interesadas relevantes en el SGSI. La falta de retroalimentación puede constituir una no conformidad con este numeral."
+    },
+    {
+        "pregunta": "El auditor líder debería declarar una NO CONFORMIDAD, cuando:",
+        "alternativas": [
+            "La Organización decida excluir 7.1 Perímetros de seguridad física",
+            "La Organización decida excluir 6.7 Trabajo remoto",
+            "La Organización decida excluir 8.27 Arquitectura segura y principios de seguridad para sistemas de información",
+            "La Organización decida excluir 5.3 Roles, responsabilidades y autoridades en la Organización"
+        ],
+        "respuesta_correcta": "La Organización decida excluir 8.27 Arquitectura segura y principios de seguridad para sistemas de información",
+        "justificacion": "ISO 27001 requiere la implementación de principios de seguridad y arquitectura segura para los sistemas de información. Excluir el control 8.27 podría afectar seriamente la seguridad, y por eso, sería motivo de no conformidad."
+    },
+    {
+        "pregunta": "El alcance de la auditoría",
+        "alternativas": [
+            "Incluye una descripción de los numerales del Anexo A y los requisitos de la norma ISO 27001",
+            "Incluye una descripción de los numerales del Anexo A",
+            "Incluye una descripción de los numerales de los requisitos de la norma ISO 27001",
+            "Incluye una descripción de las ubicaciones físicas y virtuales, funciones, unidades organizativas, actividades y procesos, así como el periodo de tiempo cubierto"
+        ],
+        "respuesta_correcta": "Incluye una descripción de las ubicaciones físicas y virtuales, funciones, unidades organizativas, actividades y procesos, así como el periodo de tiempo cubierto",
+        "justificacion": "ISO 27001 define que el alcance de la auditoría debe abarcar las ubicaciones, funciones y procesos involucrados para asegurar que todos los aspectos relevantes del SGSI sean revisados dentro del contexto organizacional."
+    },
+    {
+        "pregunta": "No es posible encontrar la forma de llevar a cabo la valoración/apreciación de los riesgos de manera regular con intervalos planificados que permita una acción permanente frente a los riesgos de seguridad de la información.",
+        "alternativas": ["6.1.2", "6.1.3", "8.3", "Ninguna"],
+        "respuesta_correcta": "Ninguna",
+        "justificacion": "ISO 27001 establece que el proceso de gestión de riesgos debe realizarse de manera regular y planificada. Sin una frecuencia definida, es difícil gestionar los riesgos efectivamente, lo cual puede impactar la seguridad de la información."
+    },
+    {
+        "pregunta": "Fue robado un PC portátil de un hotel donde dictaba conferencia el oficial de seguridad de la información. Ese computador contaba con información sensible para un cliente. ¿Cuál control debió o debe tener este PC?",
+        "alternativas": ["7.9", "5.10", "5.1", "7.8"],
+        "respuesta_correcta": "7.8",
+        "justificacion": "ISO 27001 en el control 7.8 se enfoca en la protección de equipos fuera de las instalaciones. En el caso de dispositivos móviles o portátiles, este control asegura la confidencialidad de la información sensible en situaciones de riesgo."
+    },
+    {
+        "pregunta": "Un empleado retirado de la Organización aún permanece activo en las plataformas de acceso luego de 1 mes.",
+        "alternativas": ["5.16", "5.1", "5.18", "5.15"],
+        "respuesta_correcta": "5.18",
+        "justificacion": "El control 5.18 de ISO 27001 requiere la desactivación o eliminación de accesos de personal inactivo o desvinculado para prevenir accesos no autorizados y reducir el riesgo de fuga de información."
+    },
+    {
+        "pregunta": "¿El conocimiento adquirido se debe usar para reducir la posibilidad o el impacto de futuros?",
+        "alternativas": [
+            "Incidentes de seguridad de la información",
+            "Fallos en los acuerdos de confidencialidad",
+            "Incumplimientos de las políticas de seguridad de la información",
+            "Errores en la gestión de cambios"
+        ],
+        "respuesta_correcta": "Incidentes de seguridad de la información",
+        "justificacion": "ISO 27001 fomenta el aprendizaje de incidentes previos para mejorar las medidas de seguridad. Al utilizar el conocimiento adquirido, se reduce la probabilidad de incidentes similares en el futuro, fortaleciendo el SGSI."
+    },
+    {
+        "pregunta": "Ayudan a: Brindar continuidad a la auditoría, planificar una auditoría eficaz, identificar los aspectos más críticos del sistema, controlar la profundidad, continuidad y ritmo de la auditoría.",
+        "alternativas": ["Equipo auditor", "Listas de verificación", "Programa de auditoria", "Planes de auditoria"],
+        "respuesta_correcta": "Listas de verificación",
+        "justificacion": "Según ISO 27001, las listas de verificación ayudan a estructurar la auditoría, asegurando que se aborden todos los aspectos relevantes y se mantenga la consistencia en los hallazgos y el enfoque del proceso."
+    },
+    {
+        "pregunta": "El auditor líder evidencia que en la auditoria previa se presenta no conformidad aplicable a las políticas de seguridad de la información y para este año sigue ocurriendo la misma situación",
+        "alternativas": ["5.3", "5.1", "10.1", "5.2"],
+        "respuesta_correcta": "5.1",
+        "justificacion": "El control 5.1 de ISO 27001 exige la implementación y mantenimiento de políticas de seguridad de la información. La repetición de una no conformidad indica un fallo en la mejora continua, lo cual debe ser tratado con acciones correctivas."
+    },
+    {
+        "pregunta": "Respecto a los criterios de auditoría",
+        "alternativas": [
+            "Los detalla el auditor en conjunto con la Empresa y el proceso auditado",
+            "Son un conjunto de requisitos utilizados como referencia con respecto a los cuales se compara la evidencia objetiva",
+            "Son relacionados detalladamente en el informe de auditoría",
+            "Solo los conoce la alta dirección de la Empresa y el auditor"
+        ],
+        "respuesta_correcta": "Son un conjunto de requisitos utilizados como referencia con respecto a los cuales se compara la evidencia objetiva",
+        "justificacion": "ISO 27001 establece que los criterios de auditoría son los requisitos de referencia contra los cuales se evalúa el cumplimiento, permitiendo verificar si los controles cumplen con el estándar y los objetivos de seguridad."
+    },
+    {
+        "pregunta": "En una visita a las instalaciones físicas el auditor líder encuentra que los PC tienen fechas y horas diferentes.",
+        "alternativas": ["8.14", "5.1", "8.17", "5.2"],
+        "respuesta_correcta": "8.17",
+        "justificacion": "El control 8.17 de ISO 27001 aboga por la sincronización horaria en sistemas críticos para asegurar la integridad y coherencia de los registros y auditorías, facilitando la trazabilidad en caso de incidentes."
+    },
+    {
+        "pregunta": "Perceptivo(a), diplomático(a) y versátil son:",
+        "alternativas": [
+            "Atributos personales del auditado",
+            "Capacidades personales que debe tener la alta dirección",
+            "Atributos personales del auditor líder y el auditado",
+            "Atributos personales del auditor líder"
+        ],
+        "respuesta_correcta": "Atributos personales del auditor líder",
+        "justificacion": "ISO 27001 destaca que el auditor líder debe poseer atributos como la diplomacia, versatilidad y percepción, lo cual facilita una auditoría objetiva y la obtención de resultados efectivos en el proceso de auditoría."
+    },
+    {
+        "pregunta": "La base para la imparcialidad de la auditoría y la objetividad de las conclusiones de la auditoría son:",
+        "alternativas": [
+            "Elementos para la presentación del alcance de auditoria",
+            "Elementos para la toma de decisiones en los riesgos de seguridad de la información",
+            "Elementos para la presentación del informe de auditoria",
+            "Un principio de la auditoria"
+        ],
+        "respuesta_correcta": "Un principio de la auditoria",
+        "justificacion": "La imparcialidad y objetividad son principios clave en ISO 27001 para asegurar que los resultados de la auditoría sean confiables y reflejen una evaluación precisa del SGSI sin influencia indebida."
+    },
+    {
+        "pregunta": "Los resultados de auditorías internas o externas previas son parte de:",
+        "alternativas": [
+            "Los objetivos de revisión del auditor líder",
+            "Los documentos que debe disponer el proceso auditado",
+            "El alcance del programa de auditoria",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta_correcta": "El alcance del programa de auditoria",
+        "justificacion": "ISO 27001 indica que el alcance del programa de auditoría debe considerar los resultados de auditorías previas para identificar áreas de mejora y asegurar que las acciones correctivas sean efectivas."
+    },
+        {
+        "pregunta": "Se ha detectado que se filtra cierto tipo de información sensible a la competencia. ¿Cuál es el control que más aplica para este caso?",
+        "alternativas": ["6.1", "8.3", "A y B", "6.2"],
+        "respuesta_correcta": "A y B",
+        "justificacion": "El control 6.1 de ISO 27001 se centra en la gestión de riesgos para determinar y aplicar controles adecuados, mientras que 8.3 está orientado a la protección de la información ante accesos no autorizados. Ambos son esenciales para mitigar fugas de información sensible."
+    },
+    {
+        "pregunta": "Una auditoria no es viable sino existe cooperación adecuada del auditado.",
+        "alternativas": ["Verdadero", "Falso"],
+        "respuesta_correcta": "Verdadero",
+        "justificacion": "ISO 27001 subraya que la auditoría requiere cooperación por parte del auditado, ya que la falta de colaboración impide una evaluación efectiva y completa de los procesos y controles de seguridad."
+    },
+    {
+        "pregunta": "Las pruebas de seguridad de sistemas son enfocadas directamente a:",
+        "alternativas": [
+            "8.20 Seguridad en redes",
+            "5.1 Políticas de seguridad de la información",
+            "8.27 Arquitectura segura y principios de seguridad para sistemas de información.",
+            "Todas las anteriores"
+        ],
+        "respuesta_correcta": "Todas las anteriores",
+        "justificacion": "ISO 27001 abarca pruebas de seguridad en varias áreas, incluyendo redes (8.20), políticas de seguridad (5.1) y principios de arquitectura segura (8.27), asegurando que todos los componentes del SGSI sean evaluados frente a vulnerabilidades."
+    },
+    {
+        "pregunta": "¿Con cuál de estas afirmaciones está Usted de acuerdo?",
+        "alternativas": [
+            "Se debería seleccionar un equipo de auditoría, teniendo en cuenta las habilidades necesarias para alcanzar los objetivos",
+            "Se debería seleccionar un equipo de auditoría, teniendo en cuenta los conocimientos académicos necesarios para alcanzar los objetivos",
+            "Se debería seleccionar un equipo de auditoría, teniendo en cuenta la competencia necesaria para alcanzar los objetivos",
+            "Se debería seleccionar un equipo de auditoría, teniendo en cuenta el grado de compromiso para alcanzar los objetivos"
+        ],
+        "respuesta_correcta": "Se debería seleccionar un equipo de auditoría, teniendo en cuenta la competencia necesaria para alcanzar los objetivos",
+        "justificacion": "ISO 27001 destaca que la competencia del equipo auditor es esencial para realizar una auditoría efectiva, ya que permite una evaluación adecuada de los controles y cumplimiento del SGSI."
+    },
+    {
+        "pregunta": "La revisión de registros, la entrevista y la observación son:",
+        "alternativas": [
+            "Métodos para evaluar los auditores",
+            "Requisitos mínimos de una auditoría",
+            "Cualidades del auditor líder",
+            "Objetivos de una auditoría"
+        ],
+        "respuesta_correcta": "Métodos para evaluar los auditores",
+        "justificacion": "ISO 27001 describe que la revisión de registros, las entrevistas y la observación son métodos para recopilar información y evaluar la efectividad de los controles, proporcionando evidencia objetiva durante el proceso de auditoría."
+    },
+    {
+        "pregunta": "Verificar la relevancia y exactitud de la información recopilada es una actividad obligada de:",
+        "alternativas": [
+            "El auditado para suministrar información precisa al auditor",
+            "El auditor lider para realizar el programa de auditoria",
+            "El auditor lider como una habilidad y capacidad de obtener información confiable",
+            "El auditor líder para realizar el plan de auditoría"
+        ],
+        "respuesta_correcta": "El auditor lider como una habilidad y capacidad de obtener información confiable",
+        "justificacion": "ISO 27001 señala que el auditor líder debe verificar la precisión de la información recopilada como parte de sus habilidades para asegurar que los hallazgos reflejen una imagen precisa de la situación del SGSI."
+    },
+    {
+        "pregunta": "Informar a la alta dirección sobre el desempeño del SGSI es una responsabilidad que asigna:",
+        "alternativas": [
+            "El líder de seguridad de la información",
+            "El líder de cada proceso",
+            "La Gerencia de la organización",
+            "La Alta dirección"
+        ],
+        "respuesta_correcta": "La Alta dirección",
+        "justificacion": "ISO 27001 establece que la alta dirección es responsable de revisar y supervisar el desempeño del SGSI para asegurar que cumple con los objetivos y se adapta a los cambios en el entorno de riesgos."
+    }
+]

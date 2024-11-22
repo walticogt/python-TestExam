@@ -1,0 +1,2 @@
+renombra los cuestionario a "cuestionario1.json", para cambiar el cuestionario.
+by Oscar Huanca
